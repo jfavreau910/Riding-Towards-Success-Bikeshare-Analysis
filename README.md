@@ -67,12 +67,12 @@ The analysis highlights four distinct areas where casual riders behave different
 
 Based on these distinct behavioral patterns, Cyclistic should target casual riders with marketing strategies that leverage their weekend, leisure, and seasonal habits:
 
-1. Flexible Membership Tiers: Introduce a "Weekend Warrior Pass" or a "Seasonal Pass" (e.g., 6-month summer pass) that is more cost-effective than a single ride but cheaper than a full annual membership.
+### 1. Flexible Membership Tiers: Introduce a "Weekend Warrior Pass" or a "Seasonal Pass" (e.g., 6-month summer pass) that is more cost-effective than a single ride but cheaper than a full annual membership.
 
-2. Location-Based Promotions: Place prominent signage and staff at the top 10 casual starting stations (identified in the analysis) offering immediate, time-sensitive membership discounts.
+### 2. Location-Based Promotions: Place prominent signage and staff at the top 10 casual starting stations (identified in the analysis) offering immediate, time-sensitive membership discounts.
 
-3. Leisure-Focused Value Proposition: Shift marketing language away from "commuting convenience" to "Leisure Freedom" and "Exploration"—highlighting the cost savings over multiple long rides during a weekend trip.
+### 3. Leisure-Focused Value Proposition: Shift marketing language away from "commuting convenience" to "Leisure Freedom" and "Exploration"—highlighting the cost savings over multiple long rides during a weekend trip.
 
-4. E-Bike Promotion: Since casual riders prefer long trips, promoting the value of the E-Bike (where available) as part of a membership could entice them to subscribe for comfort on long-distance leisure rides.
+### 4. E-Bike Promotion: Since casual riders prefer long trips, promoting the value of the E-Bike (where available) as part of a membership could entice them to subscribe for comfort on long-distance leisure rides.
 
 Code implemented by J.Favreau, Data Analyst.
