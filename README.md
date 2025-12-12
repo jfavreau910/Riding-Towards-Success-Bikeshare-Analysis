@@ -3,7 +3,7 @@
 
 ## Project Goal:
 
-### The primary objective is to understand how casual riders and annual members use Cyclistic bike-share services differently. This analysis aims to inform the Marketing Director, Lily Moreno, on strategies to convert casual riders into annual members, and increase revenue.
+### To recommend strategies to Lily Moreno and the Marketing team, to convert casual riders into more profitable annual members, by understanding how casual riders and annual members use Cyclistic bike-share services differently.
 
 ## Data Source and Tools:
 
@@ -45,7 +45,9 @@ The analysis highlights four distinct areas where casual riders behave different
 
 ### 2. Weekly and Hourly Trends (The Weekend Traveler)
 
-* Weekly Usage: Member usage remains high and consistent throughout the week, suggesting habitual commuting. * Casual usage peaks dramatically on Saturdays and Sundays, indicating leisure, fitness, or social use.
+* Weekly Usage: Member usage remains high and consistent throughout the week, suggesting habitual commuting.
+
+* Casual usage peaks dramatically on Saturdays and Sundays, indicating leisure, fitness, or social use.
 
 * Hourly Usage: Both groups peak during the afternoon (14:00 - 18:00), but the casual peak on weekends is significantly higher in volume.
 
